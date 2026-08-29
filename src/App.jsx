@@ -2977,7 +2977,7 @@ function App() {
       <div className="hero">
 
         <h1>
-          AI Literacy Platform
+          PromptSmart
         </h1>
 
         <p>
